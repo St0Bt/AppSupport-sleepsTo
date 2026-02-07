@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sleeps To - Support</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 600px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { color: #5e5ce6; } /* A nice "Sleepy" indigo color */
+        .box { border: 1px solid #eee; padding: 20px; border-radius: 12px; }
+    </style>
+</head>
+<body>
+    <h1>Sleeps To</h1>
+    <p>The countdown app that counts sleeps, not just days.</p>
+    
+    <div class="box">
+        <h3>Support & FAQ</h3>
+        <p>Questions? Email us at: <strong>your-email@example.com</strong></p>
+        <p><strong>Privacy:</strong> All your data is stored in your private iCloud. We never see your events.</p>
+    </div>
+
+    <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+</body>
+</html>
